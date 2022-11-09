@@ -21,6 +21,7 @@ select *
 from source_data
 
 /* test
+test
     Uncomment the line below to remove records with null `id` values
 */
 
