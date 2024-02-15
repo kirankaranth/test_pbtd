@@ -39,7 +39,7 @@ projectDependencies:
     projectUID: 5
     projectName: ProphecyWarehousePython
     repositoryPath: gitUri=http://gitserver:3000/5Hm0Dy3f_team_4/5Hm0Dy3f_project_5.git&subPath=
-    version: 0.0.2
+    version: 0.0.1
     isDefault: true
     author: null
     createdAt: '2024-02-15 06:34:24'
